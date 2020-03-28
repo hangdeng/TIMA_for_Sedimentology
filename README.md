@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the GitHub page for Mineralogy Analysis with TIMA
 
 You can use the [editor on GitHub](https://github.com/hangdeng/TIMA_for_Sedimentology/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
