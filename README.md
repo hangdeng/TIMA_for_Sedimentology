@@ -1,4 +1,4 @@
-## Welcome to the GitHub page for Mineralogy Analysis with TIMA
+## Welcome to the GitHub page for [Mineralogy Analysis with TIMA](https://hangdeng.github.io/TIMA_for_Sedimentology/)
 
 TIMA stands for TESCAN Integrated Mineral Analyzer (TIMA), a revolutionary instrument used for minerals and materials analysis. Because software designed for processing raw data from TIMA is not specifically designed for data analysis in sedimentology/stratigraphy, this repository is created in order to guide data processing, data analysis with TIMA for sedimentology/stratigraphy.
 
