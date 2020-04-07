@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Rock-forming Minerals](https://geology.com/minerals/rock-forming-minerals/): The common rock-forming minerals include quartz, feldspars, pyroxenes, amphiboles, micas, clays, olivine, calcite, and dolomite.
 
 <p align="left">
-  <img src="https://github.com/hangdeng/TIMA_for_Sedimentology/blob/master/ref_images/most_abundant_minerals_earth_crust.JPG" width="660">
+  <img src="https://github.com/hangdeng/TIMA_for_Sedimentology/blob/master/ref_images/most_abundant_minerals_earth_crust.JPG" width="120">
  </p>
 
 ### Markdown
