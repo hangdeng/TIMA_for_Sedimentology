@@ -6,13 +6,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 1 Introduction
 
+The TESCAN software requires an understanding of rock-forming minerals and their groups before data collection.
+
 Rock-forming Minerals: The common rock-forming minerals include quartz, feldspars, pyroxenes, amphiboles, micas, clays, olivine, calcite, and dolomite. [[1]](#1).
 
 <p align="left">
   <img src="https://github.com/hangdeng/TIMA_for_Sedimentology/blob/master/ref_images/most_abundant_minerals_earth_crust.JPG" width="420">
  </p>
 
-- The pyroxenes group: 
+- The pyroxenes group: augite, diopside, jadeite, and spodumene.
+- The amphiboles group: nephrite
+- The olivine group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
+-
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
