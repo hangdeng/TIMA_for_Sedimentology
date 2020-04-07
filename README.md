@@ -6,12 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 1 Introduction
 
-[Rock-forming Minerals](https://geology.com/minerals/rock-forming-minerals/): The common rock-forming minerals include quartz, feldspars, pyroxenes, amphiboles, micas, clays, olivine, calcite, and dolomite. [[1]](#1).
+Rock-forming Minerals: The common rock-forming minerals include quartz, feldspars, pyroxenes, amphiboles, micas, clays, olivine, calcite, and dolomite. [[1]](#1).
 
 <p align="left">
   <img src="https://github.com/hangdeng/TIMA_for_Sedimentology/blob/master/ref_images/most_abundant_minerals_earth_crust.JPG" width="300">
  </p>
 
+- The pyroxenes group: 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
