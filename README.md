@@ -1,8 +1,13 @@
 ## Welcome to the GitHub page for [Mineralogy Analysis with TIMA](https://hangdeng.github.io/TIMA_for_Sedimentology/)
 
-TIMA stands for TESCAN Integrated Mineral Analyzer (TIMA), a revolutionary instrument used for minerals and materials analysis. Because software designed for processing raw data from TIMA is not specifically designed for data analysis in sedimentology/stratigraphy, this repository is created in order to guide data processing, data analysis with TIMA for sedimentology/stratigraphy.
+TIMA stands for TESCAN Integrated Mineral Analyzer (TIMA), a revolutionary instrument used for minerals and materials analysis. Because software designed for processing raw data from TIMA is not specifically designed for data analysis in sedimentology/stratigraphy, this repository is created in order to guide data processing, data analysis with TIMA for sedimentology/stratigraphy. The TIMA used in collecting data is from [Automated Minerology Laboratory](https://geology.mines.edu/laboratories/automated-mineralogy-laboratory/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### 1 Introduction
+
+- [Rock-forming Minerals](https://geology.com/minerals/rock-forming-minerals/)
+  The common rock-forming minerals include quartz, feldspars, pyroxenes, amphiboles, micas, clays, olivine, calcite, and dolomite.
 
 ### Markdown
 
