@@ -17,7 +17,7 @@ Rock-forming Minerals: The common rock-forming minerals include quartz, feldspar
 - The pyroxenes group: augite, diopside, jadeite, and spodumene.
 - The amphiboles group: nephrite
 - The olivine group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
--
+- The biotite mica group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others.
 
 ### Markdown
 
