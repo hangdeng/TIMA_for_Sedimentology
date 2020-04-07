@@ -15,7 +15,7 @@ Rock-forming Minerals: The common rock-forming minerals include quartz, feldspar
 Groups are organized alphabetically.
 - The **amphiboles** group: nephrite
 - The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others.
-- The **calcite** group: calcite, smithsonite, siderite [[2]](#2)
+- The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[2]](#2),[[3]](#3))
 - The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
 
@@ -60,3 +60,6 @@ Geology.com](https://geology.com/minerals/rock-forming-minerals/)
 
 <a id="2">[2]</a> 
 [Calcite Group, mindata.org](https://www.mindat.org/min-29161.html)
+
+<a id="3">[3]</a> 
+[Calcite Group, galleries.com](http://www.galleries.com/minerals/carbonat/calcite.htm)
