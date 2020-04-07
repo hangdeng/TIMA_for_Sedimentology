@@ -2,8 +2,6 @@
 
 TIMA stands for TESCAN Integrated Mineral Analyzer (TIMA), a revolutionary instrument used for minerals and materials analysis. Because software designed for processing raw data from TIMA is not specifically designed for data analysis in sedimentology/stratigraphy, this repository is created in order to guide data processing, data analysis with TIMA for sedimentology/stratigraphy. The TIMA used in collecting data is from [Automated Minerology Laboratory](https://geology.mines.edu/laboratories/automated-mineralogy-laboratory/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### 1 Introduction
 
 The TESCAN software requires an understanding of rock-forming minerals and their groups before data collection.
@@ -14,10 +12,13 @@ Rock-forming Minerals: The common rock-forming minerals include quartz, feldspar
   <img src="https://github.com/hangdeng/TIMA_for_Sedimentology/blob/master/ref_images/most_abundant_minerals_earth_crust.JPG" width="420">
  </p>
 
-- The pyroxenes group: augite, diopside, jadeite, and spodumene.
-- The amphiboles group: nephrite
-- The olivine group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
-- The biotite mica group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others.
+Groups are organized alphabetically.
+- The **amphiboles** group: nephrite
+- The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others.
+- The **calcite** group: calcite, smithsonite, siderite [[2]](#2)
+- The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
+- The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
+
 
 ### Markdown
 
@@ -56,3 +57,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 King, H. W. 
 [The Common Rock-Forming Minerals. 
 Geology.com](https://geology.com/minerals/rock-forming-minerals/)
+
+<a id="2">[2]</a> 
+[Calcite Group, mindata.org](https://www.mindat.org/min-29161.html)
