@@ -17,13 +17,14 @@ Rock-forming Minerals: The common rock-forming minerals include quartz, feldspar
 Therefore, we put together information being used for grouping minerals. Mineral groups are arranged alphabetically.
 
 - The **amphiboles** group: nephrite
-- The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others.
-- The **blodite** group: blodite, leonite, anapaite, schertelite, manganoblodite, cobaltoblodite, changoite. ([[(2]](#2))
+- The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others
+- The **blodite** group: blodite, leonite, anapaite, schertelite, manganoblodite, cobaltoblodite, changoite ([[(2]](#2))
 - The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[3]](#3),[[4]](#4))
-- The **clay minerals** group: kaolinite, halloysite, lizardite, chrysotile (kaolin-serpentine); pyrophyllite-talc; illite, glauconite, celadonite (mica); vermiculite; montmorillonite, nontronite, saponite (smectite); sudoite, clinochlore, chamosite (clorite); sepiolite-palygorskite
-- The **dolomite** group: ankerite, dolomite, kutnohorite, minrecordite, norsethite
-- The **epidote** group: clinozoisite, epidote, hancockite, mukhinite, niigataite, piemontite, tweddillite
-- The **garnet** group: almandine, pyrope, spessartine, andradite, grossular, uvarovite
+- The **clay minerals** group: kaolinite, halloysite, lizardite, chrysotile (kaolin-serpentine); pyrophyllite-talc; illite, glauconite, celadonite (mica); vermiculite; montmorillonite, nontronite, saponite (smectite); sudoite, clinochlore, chamosite (clorite); sepiolite-palygorskite ([[(5]](#5))
+- The **dolomite** group: ankerite, dolomite, kutnohorite, minrecordite, norsethite ([[(6]](#6))
+- The **epidote** group: clinozoisite, epidote, hancockite, mukhinite, niigataite, piemontite, tweddillite ([[(7]](#7))
+- The **feldspar** group: albite, amazonite, andesine, anorthite, anorthoclase, banalsite, buddingtonite, bytownite, celsian, dmisteinbergite, ferrisanidine, filatovite, hexacelsian, hyalophane, kokchetavite, kumdykolite, labradorite, microcline, oligoclase, orthoclase, paracelsian, reedmergnerite, rubicline, sanidine, slawsonite, stronalsite, stronalsite, sunstone, svyatoslavite ([[(8]](#8))
+- The **garnet** group: almandine, pyrope, spessartine, andradite, grossular, uvarovite ([[(9]](#9))
 - The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
 - 
@@ -85,6 +86,9 @@ Geology.com](https://geology.com/minerals/rock-forming-minerals/)
 [Epidote Group, mindata.org](https://www.mindat.org/min-46234.html)
 
 <a id="8">[8]</a> 
+[Feldspar Group, mindata.org](https://www.mindat.org/min-1624.html)
+
+<a id="9">[9]</a> 
 [Garnet Group, mindata.org](https://www.mindat.org/min-10272.html)
 
 
