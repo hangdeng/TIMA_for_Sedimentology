@@ -18,8 +18,12 @@ Therefore, we put together information being used for grouping minerals. Mineral
 
 - The **amphiboles** group: nephrite
 - The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others.
-- The **bliodite** group: blodite, leonite, anapaite, schertelite, manganoblodite, cobaltoblodite, changoite. ([[2]]#2)
+- The **blodite** group: blodite, leonite, anapaite, schertelite, manganoblodite, cobaltoblodite, changoite. ([[(2]](#2))
 - The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[3]](#3),[[4]](#4))
+- The **clay minerals** group: kaolinite, halloysite, lizardite, chrysotile (kaolin-serpentine); pyrophyllite-talc; illite, glauconite, celadonite (mica); vermiculite; montmorillonite, nontronite, saponite (smectite); sudoite, clinochlore, chamosite (clorite); sepiolite-palygorskite
+- The **dolomite** group: ankerite, dolomite, kutnohorite, minrecordite, norsethite
+- The **epidote** group: clinozoisite, epidote, hancockite, mukhinite, niigataite, piemontite, tweddillite
+- The **garnet** group: almandine, pyrope, spessartine, andradite, grossular, uvarovite
 - The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
 - 
@@ -70,4 +74,17 @@ Geology.com](https://geology.com/minerals/rock-forming-minerals/)
 
 <a id="4">[4]</a> 
 [Calcite Group, galleries.com](http://www.galleries.com/minerals/carbonat/calcite.htm)
+
+<a id="5">[5]</a> 
+[Clay Mienrals Group, britannica.com](https://www.britannica.com/science/clay-mineral)
+
+<a id="6">[6]</a> 
+[Dolomite Group, mindata.org](https://www.mindat.org/min-29288.html)
+
+<a id="7">[7]</a> 
+[Epidote Group, mindata.org](https://www.mindat.org/min-46234.html)
+
+<a id="8">[8]</a> 
+[Garnet Group, mindata.org](https://www.mindat.org/min-10272.html)
+
 
