@@ -60,7 +60,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 King, H. W. 
 [The Common Rock-Forming Minerals. 
 Geology.com](https://geology.com/minerals/rock-forming-minerals/)
+
 <a id="2">[2]</a> 
 [Calcite Group, mindata.org](https://www.mindat.org/min-29161.html)
+
 <a id="3">[3]</a> 
 [Calcite Group, galleries.com](http://www.galleries.com/minerals/carbonat/calcite.htm)
+
