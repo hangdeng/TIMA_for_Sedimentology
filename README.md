@@ -4,7 +4,9 @@ TIMA stands for TESCAN Integrated Mineral Analyzer (TIMA), a revolutionary instr
 
 ### 1 Introduction
 
-The TESCAN software requires an understanding of rock-forming minerals and their groups before data collection.
+#### 1.1 Minerals and mineral groups
+
+The TESCAN software requires an understanding of rock-forming minerals and their groups (correctly group minerals into brackets before starting data collection).
 
 Rock-forming Minerals: The common rock-forming minerals include quartz, feldspars, pyroxenes, amphiboles, micas, clays, olivine, calcite, and dolomite. [[1]](#1).
 
@@ -12,7 +14,8 @@ Rock-forming Minerals: The common rock-forming minerals include quartz, feldspar
   <img src="https://github.com/hangdeng/TIMA_for_Sedimentology/blob/master/ref_images/most_abundant_minerals_earth_crust.JPG" width="420">
  </p>
 
-Groups are organized alphabetically.
+Therefore, we put together information being used for grouping minerals. Mineral groups are arranged alphabetically.
+
 - The **amphiboles** group: nephrite
 - The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others.
 - The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[2]](#2),[[3]](#3))
@@ -57,9 +60,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 King, H. W. 
 [The Common Rock-Forming Minerals. 
 Geology.com](https://geology.com/minerals/rock-forming-minerals/)
-
 <a id="2">[2]</a> 
 [Calcite Group, mindata.org](https://www.mindat.org/min-29161.html)
-
 <a id="3">[3]</a> 
 [Calcite Group, galleries.com](http://www.galleries.com/minerals/carbonat/calcite.htm)
