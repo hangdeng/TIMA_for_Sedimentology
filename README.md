@@ -18,10 +18,11 @@ Therefore, we put together information being used for grouping minerals. Mineral
 
 - The **amphiboles** group: nephrite
 - The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others.
-- The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[2]](#2),[[3]](#3))
+- The **bliodite** group: blodite, leonite, anapaite, schertelite, manganoblodite, cobaltoblodite, changoite. ([[2]]#2)
+- The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[3]](#3),[[4]](#4))
 - The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
-
+- 
 
 ### Markdown
 
@@ -62,8 +63,11 @@ King, H. W.
 Geology.com](https://geology.com/minerals/rock-forming-minerals/)
 
 <a id="2">[2]</a> 
-[Calcite Group, mindata.org](https://www.mindat.org/min-29161.html)
+[Blodite group, Wikipedia](https://en.wikipedia.org/wiki/Blodite_group)
 
 <a id="3">[3]</a> 
+[Calcite Group, mindata.org](https://www.mindat.org/min-29161.html)
+
+<a id="4">[4]</a> 
 [Calcite Group, galleries.com](http://www.galleries.com/minerals/carbonat/calcite.htm)
 
