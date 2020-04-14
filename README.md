@@ -17,18 +17,19 @@ Rock-forming Minerals: The common rock-forming minerals include quartz, feldspar
 Therefore, we put together information being used for grouping minerals. Mineral groups are arranged alphabetically.
 
 - The **amphiboles** group: nephrite
+- The **aragonite** group: aragonite, cerussite, strontianite, witherite ([2](#2))
 - The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others
-- The **blodite** group: blodite, leonite, anapaite, schertelite, manganoblodite, cobaltoblodite, changoite ([[(2]](#2))
-- The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[3]](#3),[[4]](#4))
-- The **clay minerals** group: kaolinite, halloysite, lizardite, chrysotile (kaolin-serpentine); pyrophyllite-talc; illite, glauconite, celadonite (mica); vermiculite; montmorillonite, nontronite, saponite (smectite); sudoite, clinochlore, chamosite (clorite); sepiolite-palygorskite ([[(5]](#5))
-- The **dolomite** group: ankerite, dolomite, kutnohorite, minrecordite, norsethite ([[(6]](#6))
-- The **epidote** group: clinozoisite, epidote, hancockite, mukhinite, niigataite, piemontite, tweddillite ([[(7]](#7))
-- The **feldspar** group: albite, amazonite, andesine, anorthite, anorthoclase, banalsite, buddingtonite, bytownite, celsian, dmisteinbergite, ferrisanidine, filatovite, hexacelsian, hyalophane, kokchetavite, kumdykolite, labradorite, microcline, oligoclase, orthoclase, paracelsian, reedmergnerite, rubicline, sanidine, slawsonite, stronalsite, stronalsite, sunstone, svyatoslavite ([[(8]](#8))
-- The **garnet** group: almandine, pyrope, spessartine, andradite, grossular, uvarovite ([[(9]](#9))
-- The **halite** group: carobbiite, griceite, halite, sylvite, villiaumite ([[(10]](#10))
+- The **blodite** group: blodite, leonite, anapaite, schertelite, manganoblodite, cobaltoblodite, changoite ([[(3]](#3))
+- The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[4]](#4),[[5]](#5))
+- The **clay minerals** group: kaolinite, halloysite, lizardite, chrysotile (kaolin-serpentine); pyrophyllite-talc; illite, glauconite, celadonite (mica); vermiculite; montmorillonite, nontronite, saponite (smectite); sudoite, clinochlore, chamosite (clorite); sepiolite-palygorskite ([[(6]](#6))
+- The **dolomite** group: ankerite, dolomite, kutnohorite, minrecordite, norsethite ([[(7]](#7))
+- The **epidote** group: clinozoisite, epidote, hancockite, mukhinite, niigataite, piemontite, tweddillite ([[(8]](#8))
+- The **feldspar** group: albite, amazonite, andesine, anorthite, anorthoclase, banalsite, buddingtonite, bytownite, celsian, dmisteinbergite, ferrisanidine, filatovite, hexacelsian, hyalophane, kokchetavite, kumdykolite, labradorite, microcline, oligoclase, orthoclase, paracelsian, reedmergnerite, rubicline, sanidine, slawsonite, stronalsite, stronalsite, sunstone, svyatoslavite ([[(9]](#9))
+- The **garnet** group: almandine, pyrope, spessartine, andradite, grossular, uvarovite ([[(10]](#10))
+- The **halite** group: carobbiite, griceite, halite, sylvite, villiaumite ([[(11]](#11))
 - The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
-- The **pyrite** group: sperrylite, pyrite, krut'aite, etc. ([](#))
+- The **pyrite** group: sperrylite, pyrite, krut'aite, etc. ([12](#12))
 
 ### Markdown
 
@@ -69,31 +70,34 @@ King, H. W.
 Geology.com](https://geology.com/minerals/rock-forming-minerals/)
 
 <a id="2">[2]</a> 
-[Blodite group, Wikipedia](https://en.wikipedia.org/wiki/Blodite_group)
+[Aragonite group, mindat.org](https://www.mindat.org/min-29269.html)
 
 <a id="3">[3]</a> 
-[Calcite Group, mindata.org](https://www.mindat.org/min-29161.html)
+[Blodite group, Wikipedia](https://en.wikipedia.org/wiki/Blodite_group)
 
 <a id="4">[4]</a> 
-[Calcite Group, galleries.com](http://www.galleries.com/minerals/carbonat/calcite.htm)
+[Calcite Group, mindata.org](https://www.mindat.org/min-29161.html)
 
 <a id="5">[5]</a> 
-[Clay Mienrals Group, britannica.com](https://www.britannica.com/science/clay-mineral)
+[Calcite Group, galleries.com](http://www.galleries.com/minerals/carbonat/calcite.htm)
 
 <a id="6">[6]</a> 
-[Dolomite Group, mindata.org](https://www.mindat.org/min-29288.html)
+[Clay Mienrals Group, britannica.com](https://www.britannica.com/science/clay-mineral)
 
 <a id="7">[7]</a> 
-[Epidote Group, mindata.org](https://www.mindat.org/min-46234.html)
+[Dolomite Group, mindata.org](https://www.mindat.org/min-29288.html)
 
 <a id="8">[8]</a> 
-[Feldspar Group, mindata.org](https://www.mindat.org/min-1624.html)
+[Epidote Group, mindata.org](https://www.mindat.org/min-46234.html)
 
 <a id="9">[9]</a> 
-[Garnet Group, mindata.org](https://www.mindat.org/min-10272.html)
+[Feldspar Group, mindata.org](https://www.mindat.org/min-1624.html)
 
 <a id="10">[10]</a> 
-[Halite Group, mindata.org](https://www.mindat.org/min-47992.html)
+[Garnet Group, mindata.org](https://www.mindat.org/min-10272.html)
 
 <a id="11">[11]</a> 
+[Halite Group, mindata.org](https://www.mindat.org/min-47992.html)
+
+<a id="12">[12]</a> 
 [Pyrite Group, mindata.org](https://www.mindat.org/min-9258.html)
