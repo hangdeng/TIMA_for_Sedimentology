@@ -17,7 +17,7 @@ Rock-forming Minerals: The common rock-forming minerals include quartz, feldspar
 Therefore, we put together information being used for grouping minerals. Mineral groups are arranged alphabetically.
 
 - The **amphiboles** group: nephrite
-- The **aragonite** group: aragonite, cerussite, strontianite, witherite ([2](#2))
+- The **aragonite** group: aragonite, cerussite, strontianite, witherite ([[2]](#2))
 - The **biotite mica** group: annite, phlogopite, siderophyllite, fluorophlogopite, fluorannite, eastonite, and many others
 - The **blodite** group: blodite, leonite, anapaite, schertelite, manganoblodite, cobaltoblodite, changoite ([[(3]](#3))
 - The **calcite** group: calcite, smithsonite, siderite, gaspeite, magnesite, otavite, rhodochrosite, sphaerocobaltite ([[4]](#4),[[5]](#5))
@@ -29,7 +29,7 @@ Therefore, we put together information being used for grouping minerals. Mineral
 - The **halite** group: carobbiite, griceite, halite, sylvite, villiaumite ([[(11]](#11))
 - The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
-- The **pyrite** group: sperrylite, pyrite, krut'aite, etc. ([12](#12))
+- The **pyrite** group: sperrylite, pyrite, krut'aite, etc. ([[12]](#12))
 
 ### Markdown
 
