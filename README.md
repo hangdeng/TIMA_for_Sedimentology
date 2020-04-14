@@ -28,7 +28,7 @@ Therefore, we put together information being used for grouping minerals. Mineral
 - The **halite** group: carobbiite, griceite, halite, sylvite, villiaumite ([[(10]](#10))
 - The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
-- The
+- The **pyrite** group: sperrylite, pyrite, krut'aite, etc. ([](#))
 
 ### Markdown
 
@@ -94,3 +94,6 @@ Geology.com](https://geology.com/minerals/rock-forming-minerals/)
 
 <a id="10">[10]</a> 
 [Halite Group, mindata.org](https://www.mindat.org/min-47992.html)
+
+<a id="11">[11]</a> 
+[Pyrite Group, mindata.org](https://www.mindat.org/min-9258.html)
