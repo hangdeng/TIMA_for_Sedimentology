@@ -25,9 +25,10 @@ Therefore, we put together information being used for grouping minerals. Mineral
 - The **epidote** group: clinozoisite, epidote, hancockite, mukhinite, niigataite, piemontite, tweddillite ([[(7]](#7))
 - The **feldspar** group: albite, amazonite, andesine, anorthite, anorthoclase, banalsite, buddingtonite, bytownite, celsian, dmisteinbergite, ferrisanidine, filatovite, hexacelsian, hyalophane, kokchetavite, kumdykolite, labradorite, microcline, oligoclase, orthoclase, paracelsian, reedmergnerite, rubicline, sanidine, slawsonite, stronalsite, stronalsite, sunstone, svyatoslavite ([[(8]](#8))
 - The **garnet** group: almandine, pyrope, spessartine, andradite, grossular, uvarovite ([[(9]](#9))
+- The **halite** group: carobbiite, griceite, halite, sylvite, villiaumite ([[(10]](#10))
 - The **olivine** group: forsterite, fayalte, monticellite, kirschsteinite, tephroite
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
-- 
+- The
 
 ### Markdown
 
@@ -91,4 +92,5 @@ Geology.com](https://geology.com/minerals/rock-forming-minerals/)
 <a id="9">[9]</a> 
 [Garnet Group, mindata.org](https://www.mindat.org/min-10272.html)
 
-
+<a id="10">[10]</a> 
+[Halite Group, mindata.org](https://www.mindat.org/min-47992.html)
