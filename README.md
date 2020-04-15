@@ -31,6 +31,12 @@ Therefore, we put together information being used for grouping minerals. Mineral
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
 - The **pyrite** group: sperrylite, pyrite, krut'aite, etc. ([[12]](#12))
 
+### 2 Associated Minerals for Each Mineral
+
+### 3 Ternary Diagram for Mineral Distribution
+
+### 4 Image Processing for TIMA
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
