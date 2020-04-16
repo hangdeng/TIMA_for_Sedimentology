@@ -37,6 +37,8 @@ Therefore, we put together information being used for grouping minerals. Mineral
 
 ### 4 Image Processing for TIMA
 
+- Object detection and roundness computation
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
