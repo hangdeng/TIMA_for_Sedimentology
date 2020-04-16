@@ -31,12 +31,15 @@ Therefore, we put together information being used for grouping minerals. Mineral
 - The **pyroxenes** group: augite, diopside, jadeite, and spodumene.
 - The **pyrite** group: sperrylite, pyrite, krut'aite, etc. ([[12]](#12))
 
+Note: Use Venture Basin files as examples.
+
 ### 2 Associated Minerals for Each Mineral
 
 ### 3 Ternary Diagram for Mineral Distribution
-
+TODO:
+Density contour on ternary 
 ### 4 Image Processing for TIMA
-
+TODO:
 - Object detection and roundness computation
 
 ### Markdown
