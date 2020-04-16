@@ -39,6 +39,7 @@ Therefore, we put together information being used for grouping minerals. Mineral
 
 ### 3 Ternary Diagram for Mineral Distribution
 TODO:
+Improve:
 Density contour on ternary 
 label each point
 ### 4 Image Processing for TIMA
