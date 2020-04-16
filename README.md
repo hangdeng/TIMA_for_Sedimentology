@@ -45,6 +45,9 @@ label each point
 ### 4 Image Processing for TIMA
 TODO:
 - Object detection and roundness computation
+- define function if neccessary
+
+
 
 ### Markdown
 
