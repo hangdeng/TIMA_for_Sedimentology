@@ -43,7 +43,7 @@ Improve:
 Density contour on ternary 
 label each point
 ### 4 Image Processing for TIMA
-- Object detection and roundness computation
+- Object detection and roundness calculation
 
 TODO:
 - define function if neccessary
