@@ -36,6 +36,7 @@ Therefore, we put together information being used for grouping minerals. Mineral
 [Link to the Jupyter Notebook](https://github.com/hangdeng/TIMA_for_Sedimentology/blob/master/TIMA_Scratch.ipynb)
 
 ### 2 Associated Minerals for Each Mineral
+- Find out the most associated mineral for each mineral
 
 ### 3 Ternary Diagram for Mineral Distribution
 TODO:
