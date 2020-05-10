@@ -39,6 +39,7 @@ Therefore, we put together information being used for grouping minerals. Mineral
 - Find out the most associated mineral for each mineral
 
 ### 3 Ternary Diagram for Mineral Distribution
+- Plot ternary diagram of mineral composition for thin section
 TODO:
 Improve:
 Density contour on ternary 
