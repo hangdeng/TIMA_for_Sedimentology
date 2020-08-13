@@ -2,13 +2,13 @@
 
 TIMA stands for TESCAN Integrated Mineral Analyzer (TIMA), a revolutionary instrument used for minerals and materials analysis. Because software designed for processing raw data from TIMA is not specifically designed for data analysis in sedimentology/stratigraphy, this repository is created in order to guide data processing, data analysis with TIMA for sedimentology/stratigraphy. The TIMA used in collecting data is from [Automated Minerology Laboratory](https://geology.mines.edu/laboratories/automated-mineralogy-laboratory/).
 
-### 0 Objectives
+### 1 Objectives
 - Automatically describe the tecture of sedimentary rocks in thin sections (e.g. grain size, roundness, sphericity, sorting, textural maturity, etc.)
 - Classify sedimentary rocks in thin sections with ternary diagrams
 
-### 1 Introduction
+### 2 Introduction
 
-#### 1.1 Minerals and mineral groups
+#### 2.1 Minerals and mineral groups
 
 The TESCAN software requires an understanding of rock-forming minerals and their groups (correctly group minerals into brackets before starting data collection).
 
@@ -39,16 +39,16 @@ Therefore, we put together information being used for grouping minerals. Mineral
 
 [Link to the Jupyter Notebook](https://github.com/hangdeng/TIMA_for_Sedimentology/blob/master/TIMA_Scratch.ipynb)
 
-### 2 Associated Minerals for Each Mineral
+### 3 Associated Minerals for Each Mineral
 - Find out the most associated mineral for each mineral
 
-### 3 Ternary Diagram for Mineral Distribution
+### 4 Ternary Diagram for Mineral Distribution
 - Plot ternary diagram of mineral composition for thin section
 TODO:
 Improve:
 Density contour on ternary 
 label each point
-### 4 Image Processing for TIMA
+### 5 Image Processing for TIMA
 - Object detection and roundness calculation
 
 TODO:
